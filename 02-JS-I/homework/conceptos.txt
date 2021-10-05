@@ -1,0 +1,21 @@
+Variables: Es un espacio que registra informacion o datos , que puede ser utilizada despues, sus usos pueden ser 
+guardar, mostrar, asignar o dichos datos.
+
+
+Strings: Son cadenas de caracteres,es decir, un caracter o caracteres pueden ser, oraciones, numeros, espacios en blanco
+o cualquier entrada desde un teclado.
+
+Funciones: Las funciones son fragmentos de codigos que se ejecutan para realizar una determinada tarea, estos reciben
+argumentos para ser tratados durante la ejecucion de codigo y retornar otro valor.
+
+En pocas palabras una funcion  realiza una tarea y recibe un valor para devolver otro.
+
+
+Declaracion if: Es una sentencia que se basa en condiciones, si una condicion se cumple, es verdadera o viceversa 
+(sea que la condicion no se cumpla o sea falsa) se ejecuta una accion.
+
+
+Valores Booleanos: Son valores logicos para determinar o identificar una situacion, la cual solo se limita a 
+dos resultados true o false, que se puede traducir como activar o desactivar, por ejemplo:
+    Cuando encendemos un bombillo es true o 1, y cuando lo apagamos es false o 0.
+
