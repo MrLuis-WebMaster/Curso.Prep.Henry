@@ -1,0 +1,25 @@
+Objetos: Son colecciones de datos sobre una misma cosa a diferencia de
+de los arrays. Por ejemplo como los datos de una cedula de identidad que tiene 
+datos sobre el nombre, fecha de nacimiento, fecha de vencimiento, numero de identidad, etc.
+
+Propiedades: La informacion contenida dentro de un objetos se llaman Propiedades
+y cada propiedad se denota en pares (key/value) el key o llave es el nombre que identifica y el value o el valor 
+es contenido de la llave.
+
+Metodos: son funciones dentro de un objetos, la llave recibe un nombre y el valor recibe una funcion,
+estos se llaman metodos, nos permite crear funciones e invocarlos a traves de la sintaxis de punto, con el 
+nombre del objeto nombre de la funcion terminado en parentesis.
+
+
+for... in : El for in es un ciclo de repeticion de nos permite recorrer objetos 
+este revisa cada propiedad del objeto tomando el key y el value.
+
+Notacion de puntos vs Notacion de corchetes:
+
+Para acceder a los valores de un objeto podemos hacerlo a traves de la notacion de puntos
+(Ejemplo = persona.nombre) seria el nombre del objeto seguido de un punto y el nombre de la llave para acceder al valor.
+
+La notacion de corchetes hace la misma funcion Solo que en vez de un punto utilizamos el nombre del objeto seguido de 
+corchetes con el nombre entre comillas de la llave. Este tiene una particuralidad que podemos pasarle una variable con el valor de la llave en forma de string.
+
+(Ejemplo = persona["nombre"]);

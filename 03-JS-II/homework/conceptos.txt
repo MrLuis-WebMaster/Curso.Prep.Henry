@@ -1,0 +1,16 @@
+For: son expresiones que se repiten y paran despues de cierto tiempo, estos bucles siempre tienen un inicio
+y un fin, evaluadas por una condicion, cada vez que se cumpla una condicion se repite hasta que deje se cumplir
+la condicion.
+
+
+
+Operadores Logicos: Nos ayudan a evaluar que se cumplan ciertas condiciones.
+
+Estas funcionan como en la vida real, cuando hablamos y utilizamos el conector "Y" en una oracion
+estas tienen que ser verdaderas
+
+&& : El operador "Y" se encarga de revisar que se dos expresiones o mas, todas sean verdaderas.  
+
+|| : Este operador "O" solo le interesa que una condicion sea verdaderas, para que la condicion se cumpla.
+
+! : Este niega o contradice la condicion, si la condicion es verdadera retorna falso y viceversa.

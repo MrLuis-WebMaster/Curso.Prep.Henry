@@ -1,0 +1,2 @@
+Arrays : Es una lista que guarda una coleccion de datos, digamos que es como una lista de asistencia del colegio que 
+guarda todos los nombres de los estudiantes.
