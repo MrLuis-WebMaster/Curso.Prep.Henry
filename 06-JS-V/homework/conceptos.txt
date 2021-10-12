@@ -1,0 +1,5 @@
+Clases: Son plantillas diseñadas con caracteristicas y funciones predefinidas,
+nos permite poder crear copias con distintas informaciones.
+
+prototype: Es un lugar dentro de las clases, para poder guardar y utilizar funciones, creadas dentro de la clases
+y que solo pertenecen a las clases.

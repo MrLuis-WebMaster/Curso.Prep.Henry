@@ -1,0 +1,3 @@
+Funciones Callback : Es una llamada de una funcion dentro de otra funcion,
+es decir, una llamada de vuelta, su caracteristica principal es que una funcion recibe
+como parametros una funcion para ejecutarse dentro de la funcion.
